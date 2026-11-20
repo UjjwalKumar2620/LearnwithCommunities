@@ -7,14 +7,18 @@ document.addEventListener('DOMContentLoaded', () => {
     const podiumSection = document.getElementById('podiumSection');
     const tableContainer = document.querySelector('.table-container');
 
-    // Assign ranks (participants already sorted by badges desc in data.js)
-    let currentRank = 1;
-    for (let i = 0; i < participants.length; i++) {
-        if (i > 0 && participants[i].badges < participants[i - 1].badges) {
-            currentRank = i + 1;
+    // Sort participants by skill badges descending, then alphabetically by name (case-insensitive)
+    participants.sort((a, b) => {
+        if (b.badges !== a.badges) {
+            return b.badges - a.badges;
         }
-        participants[i].rank = currentRank;
-    }
+        return a.name.trim().localeCompare(b.name.trim(), undefined, { sensitivity: 'base' });
+    });
+
+    // Assign sequential ranks: 1, 2, 3 ... 298
+    participants.forEach((p, idx) => {
+        p.rank = idx + 1;
+    });
 
     // Set up podium
     setupPodium();
