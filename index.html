@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDG BPIT - Google Cloud Learn with Communities</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Product+Sans:wght@400;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Animated Background Canvas -->
+    <canvas id="bgCanvas" class="bg-canvas"></canvas>
+
+    <!-- Floating Cloud Graphics -->
+    <div class="floating-clouds">
+        <svg class="cloud cloud-1" viewBox="0 0 200 120" fill="none">
+            <path d="M170 80H30c-16.569 0-30-13.431-30-30 0-14.337 10.07-26.332 23.52-29.27C26.34 8.858 37.88 0 51.5 0c10.14 0 19.16 4.9 24.78 12.46C80.95 5.14 89.52 0 99.5 0c15.464 0 28.197 11.68 29.82 26.68C141.4 30.56 150 41.3 150 54c0 1.37-.09 2.72-.26 4.04C158.76 62.14 165.6 70.3 165.6 80h4.4c16.569 0 30-13.431 30-30s-13.431-30-30-30c-2.34 0-4.62.27-6.8.77C129.56 8.46 117.6 0 103.5 0" opacity="0.06" fill="#4285F4"/>
+        </svg>
+        <svg class="cloud cloud-2" viewBox="0 0 160 100" fill="none">
+            <ellipse cx="80" cy="60" rx="70" ry="35" opacity="0.04" fill="#34A853"/>
+            <ellipse cx="50" cy="45" rx="45" ry="30" opacity="0.04" fill="#34A853"/>
+            <ellipse cx="110" cy="50" rx="40" ry="25" opacity="0.04" fill="#34A853"/>
+        </svg>
+        <svg class="cloud cloud-3" viewBox="0 0 180 110" fill="none">
+            <ellipse cx="90" cy="65" rx="75" ry="38" opacity="0.05" fill="#FBBC04"/>
+            <ellipse cx="55" cy="48" rx="50" ry="32" opacity="0.04" fill="#FBBC04"/>
+        </svg>
+    </div>
+
+    <!-- Tech Graphics -->
+    <div class="tech-graphics">
+        <div class="code-bracket bracket-1">&lt;/&gt;</div>
+        <div class="code-bracket bracket-2">{ }</div>
+        <div class="code-bracket bracket-3">( )</div>
+        <div class="code-bracket bracket-4">[ ]</div>
+        <div class="code-bracket bracket-5">#!/</div>
+        <div class="terminal-icon terminal-1">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M4 17l6-5-6-5M12 19h8"/>
+            </svg>
+        </div>
+        <div class="terminal-icon terminal-2">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <rect x="2" y="3" width="20" height="14" rx="2" ry="2"/>
+                <line x1="8" y1="21" x2="16" y2="21"/>
+                <line x1="12" y1="17" x2="12" y2="21"/>
+            </svg>
+        </div>
+        <div class="cloud-icon cloud-graphic-1">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M19.35 10.04A7.49 7.49 0 0012 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 000 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/>
+            </svg>
+        </div>
+        <div class="cloud-icon cloud-graphic-2">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+            </svg>
+        </div>
+        <div class="gear-icon gear-1">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <circle cx="12" cy="12" r="3"/>
+                <path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 010 2.83 2 2 0 01-2.83 0l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-2 2 2 2 0 01-2-2v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83 0 2 2 0 010-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 01-2-2 2 2 0 012-2h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 010-2.83 2 2 0 012.83 0l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 012-2 2 2 0 012 2v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 0 2 2 0 010 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 012 2 2 2 0 01-2 2h-.09a1.65 1.65 0 00-1.51 1z"/>
+            </svg>
+        </div>
+        <div class="gear-icon gear-2">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                <polyline points="16 18 22 12 16 6"/>
+                <polyline points="8 6 2 12 8 18"/>
+            </svg>
+        </div>
+        <!-- Dots pattern -->
+        <div class="dots-pattern dots-1"></div>
+        <div class="dots-pattern dots-2"></div>
+        <div class="dots-pattern dots-3"></div>
+        <!-- Hexagon grid -->
+        <div class="hex-grid hex-1"></div>
+        <div class="hex-grid hex-2"></div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-left">
+            <img src="assets/lwc-logo.jpg" alt="Learn with Communities" class="nav-logo">
+        </div>
+        <div class="nav-center">
+            <a href="index.html" class="nav-link active">Home</a>
+            <a href="ranking.html" class="nav-link">Rankings</a>
+            <a href="about.html" class="nav-link">About</a>
+        </div>
+        <div class="nav-right">
+            <img src="assets/gdg-logo.png" alt="GDG" class="nav-logo">
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="badge-dot"></span>
+                Google Cloud Learn with Communities
+            </div>
+            <h1 class="hero-title">
+                <span class="google-text">
+                    <span class="g-blue">G</span><span class="g-red">o</span><span class="g-yellow">o</span><span class="g-blue">g</span><span class="g-green">l</span><span class="g-red">e</span>
+                </span>
+                Cloud
+                <br>
+                <span class="highlight">Progress Tracker</span>
+            </h1>
+            <p class="hero-subtitle">
+                Track your Google Cloud skill badges, monitor milestones, and see how you rank among your peers at <strong>GDG BPIT</strong>.
+            </p>
+            <div class="hero-actions">
+                <a href="ranking.html" class="btn btn-primary">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+                        <path d="M12 20V10M6 20V4M18 20v-6"/>
+                    </svg>
+                    View Rankings
+                </a>
+                <a href="about.html" class="btn btn-secondary">Learn More</a>
+            </div>
+            <div class="hero-highlights">
+                <span class="highlight-item"><span class="highlight-dot"></span> Live Badge Leaderboard</span>
+                <span class="highlight-item"><span class="highlight-dot"></span> Milestone 1, 2 & 3 Tracking</span>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <div class="stats-card-grid">
+                <div class="stat-card" id="totalParticipants">
+                    <div class="stat-icon blue">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/>
+                            <circle cx="9" cy="7" r="4"/>
+                            <path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/>
+                        </svg>
+                    </div>
+                    <div class="stat-number" data-count="298">0</div>
+                    <div class="stat-label">Total Participants</div>
+                </div>
+                <div class="stat-card" id="activeLearners">
+                    <div class="stat-icon green">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 11.08V12a10 10 0 11-5.93-9.14"/>
+                            <polyline points="22 4 12 14.01 9 11.01"/>
+                        </svg>
+                    </div>
+                    <div class="stat-number" data-count="0">0</div>
+                    <div class="stat-label">With Badges</div>
+                </div>
+                <div class="stat-card" id="milestone3">
+                    <div class="stat-icon yellow">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+                        </svg>
+                    </div>
+                    <div class="stat-number" data-count="0">0</div>
+                    <div class="stat-label">Milestone 3 Achieved</div>
+                </div>
+                <div class="stat-card" id="totalBadges">
+                    <div class="stat-icon red">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 15l-2 5-1-3-3 1 2-5M12 15l2 5 1-3 3 1-2-5M6 9a6 6 0 1112 0 6 6 0 01-12 0z"/>
+                        </svg>
+                    </div>
+                    <div class="stat-number" data-count="0">0</div>
+                    <div class="stat-label">Total Badges Earned</div>
+                </div>
+            </div>
+
+            <!-- PROMINENT LARGE RESOURCE CARDS ON THE RIGHT -->
+            <div class="hero-resource-cards">
+                <a href="https://docs.google.com/spreadsheets/d/19NZh4jAPW9rRhygWGOB2czLpHH4RG5y_ULY708gAWdU/edit?usp=sharing" target="_blank" rel="noopener noreferrer" class="res-card-big res-card-syllabus">
+                    <div class="res-card-icon-box icon-sheets">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="26" height="26">
+                            <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/>
+                            <polyline points="14 2 14 8 20 8"/>
+                            <line x1="16" y1="13" x2="8" y2="13"/>
+                            <line x1="16" y1="17" x2="8" y2="17"/>
+                        </svg>
+                    </div>
+                    <div class="res-card-body">
+                        <div class="res-card-header">
+                            <span class="res-tag tag-vine">Syllabus & Solution</span>
+                            <span class="res-open-arrow">↗</span>
+                        </div>
+                        <h3 class="res-card-title">Spreadsheet Solutions</h3>
+                        <p class="res-card-desc">All badge answers & lab walkthroughs</p>
+                    </div>
+                </a>
+
+                <a href="https://www.youtube.com/watch?v=JJLRX9PXkTo" target="_blank" rel="noopener noreferrer" class="res-card-big res-card-credits">
+                    <div class="res-card-icon-box icon-youtube">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="26" height="26">
+                            <polygon points="5 3 19 12 5 21 5 3"/>
+                        </svg>
+                    </div>
+                    <div class="res-card-body">
+                        <div class="res-card-header">
+                            <span class="res-tag tag-black">Video Tutorial</span>
+                            <span class="res-open-arrow">↗</span>
+                        </div>
+                        <h3 class="res-card-title">How to Claim Credits</h3>
+                        <p class="res-card-desc">Step-by-step credit redemption guide</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- GDG BPIT Section -->
+    <section class="gdg-section">
+        <div class="gdg-content">
+            <img src="assets/gdg-logo.png" alt="GDG Logo" class="gdg-big-logo">
+            <h2 class="gdg-title">GDG BPIT</h2>
+            <p class="gdg-description">
+                Google Developer Groups on Campus — Bhagwan Parshuram Institute of Technology
+            </p>
+            <div class="google-colors-bar">
+                <div class="color-segment blue-seg"></div>
+                <div class="color-segment red-seg"></div>
+                <div class="color-segment yellow-seg"></div>
+                <div class="color-segment green-seg"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>© 2026 GDG BPIT — Google Cloud Learn with Communities Tracker</p>
+            <div class="footer-links">
+                <a href="index.html">Home</a>
+                <a href="ranking.html">Rankings</a>
+                <a href="about.html">About</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+    <script src="bg-canvas.js"></script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rankings — GDG BPIT Cloud Tracker</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-left">
+            <img src="assets/lwc-logo.jpg" alt="Learn with Communities" class="nav-logo">
+        </div>
+        <div class="nav-center">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="ranking.html" class="nav-link active">Rankings</a>
+            <a href="about.html" class="nav-link">About</a>
+        </div>
+        <div class="nav-right">
+            <img src="assets/gdg-logo.png" alt="GDG" class="nav-logo">
+        </div>
+    </nav>
+
+    <!-- Ranking Section -->
+    <section class="ranking-section">
+        <div class="ranking-header">
+            <h1>Participant Rankings</h1>
+            <p>Ranked by number of skill badges earned</p>
+            <div class="google-colors-bar" style="margin: 0 auto;">
+                <div class="color-segment blue-seg"></div>
+                <div class="color-segment red-seg"></div>
+                <div class="color-segment yellow-seg"></div>
+                <div class="color-segment green-seg"></div>
+            </div>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <div class="search-box">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="20" height="20">
+                    <circle cx="11" cy="11" r="8"/>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                </svg>
+                <input type="text" id="searchInput" placeholder="Search participant by name..." autocomplete="off">
+                <span class="search-count" id="searchCount"></span>
+            </div>
+        </div>
+
+        <!-- Top 3 Podium -->
+        <div class="podium-section" id="podiumSection">
+            <div class="podium">
+                <div class="podium-item second" id="podium2">
+                    <div class="podium-avatar silver">2</div>
+                    <div class="podium-name"></div>
+                    <div class="podium-badges"></div>
+                    <div class="podium-bar bar-2"></div>
+                </div>
+                <div class="podium-item first" id="podium1">
+                    <div class="podium-crown">👑</div>
+                    <div class="podium-avatar gold">1</div>
+                    <div class="podium-name"></div>
+                    <div class="podium-badges"></div>
+                    <div class="podium-bar bar-1"></div>
+                </div>
+                <div class="podium-item third" id="podium3">
+                    <div class="podium-avatar bronze">3</div>
+                    <div class="podium-name"></div>
+                    <div class="podium-badges"></div>
+                    <div class="podium-bar bar-3"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Ranking Table -->
+        <div class="table-container">
+            <table class="ranking-table">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Participant</th>
+                        <th>Skill Badges</th>
+                        <th>Milestone</th>
+                        <th>Profile</th>
+                    </tr>
+                </thead>
+                <tbody id="rankingBody">
+                    <!-- Populated by JS -->
+                </tbody>
+            </table>
+        </div>
+
+        <div class="no-results" id="noResults" style="display:none;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#999" stroke-width="1.5" width="48" height="48">
+                <circle cx="11" cy="11" r="8"/>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <p>No participants found matching your search.</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>© 2026 GDG BPIT — Google Cloud Learn with Communities Tracker</p>
+            <div class="footer-links">
+                <a href="index.html">Home</a>
+                <a href="ranking.html">Rankings</a>
+                <a href="about.html">About</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="ranking.js"></script>
+</body>
+</html>
