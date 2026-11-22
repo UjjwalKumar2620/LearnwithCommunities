@@ -122,6 +122,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 milestoneTd.innerHTML = '<span class="milestone-tag milestone-3">⭐ Milestone 3</span>';
             } else if (p.milestone === 'Milestone 2') {
                 milestoneTd.innerHTML = '<span class="milestone-tag milestone-2">🎯 Milestone 2</span>';
+            } else if (p.milestone === 'Milestone 1') {
+                milestoneTd.innerHTML = '<span class="milestone-tag milestone-1">🚀 Milestone 1</span>';
             } else {
                 milestoneTd.innerHTML = '<span class="milestone-none">—</span>';
             }

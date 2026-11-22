@@ -931,6 +931,11 @@ a {
     color: var(--blue);
 }
 
+.milestone-1 {
+    background: rgba(251,188,4,0.12);
+    color: #b07d00;
+}
+
 .milestone-none {
     color: var(--gray-500);
     font-size: 12px;

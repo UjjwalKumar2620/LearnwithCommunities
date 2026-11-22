@@ -1,11 +1,19 @@
 const participants = [
   {
+    "name": "Aasutosh Dhingra",
+    "badges": 10,
+    "milestone": "Milestone 3",
+    "profileUrl": "https://www.skills.google/public_profiles/82a72b96-7fde-4958-9f48-f9dcb194d796",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
+    "rank": 1
+  },
+  {
     "name": "Aditya Jain",
     "badges": 10,
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/5e1497a3-d8d9-43d9-8e16-7ad725d23b09",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 1
+    "rank": 2
   },
   {
     "name": "Aditya Sharma",
@@ -13,7 +21,23 @@ const participants = [
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/b52ee38e-ad1e-4ebf-9d8e-037c7d3fdccb",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 2
+    "rank": 3
+  },
+  {
+    "name": "Anushka",
+    "badges": 10,
+    "milestone": "Milestone 3",
+    "profileUrl": "https://www.skills.google/public_profiles/43803bfc-3332-4740-9b12-e4d9e48b74f1",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
+    "rank": 4
+  },
+  {
+    "name": "Cheshta",
+    "badges": 10,
+    "milestone": "Milestone 3",
+    "profileUrl": "https://www.skills.google/public_profiles/bc972a4a-c15c-4a8c-be8a-9c341a2177eb",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
+    "rank": 5
   },
   {
     "name": "Daksh Jain",
@@ -21,7 +45,7 @@ const participants = [
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/f3f9054e-7651-4c62-b38f-1a2b8e3afe54",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 3
+    "rank": 6
   },
   {
     "name": "DHRUV ADHIKARI",
@@ -29,7 +53,15 @@ const participants = [
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/a9d9630e-3016-4be9-be29-295774de8dc5",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 4
+    "rank": 7
+  },
+  {
+    "name": "Franklin Babu",
+    "badges": 10,
+    "milestone": "Milestone 3",
+    "profileUrl": "https://www.skills.google/public_profiles/f4325568-cd71-4153-88ad-be14297c9bd0",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
+    "rank": 8
   },
   {
     "name": "Gagan deep singh sehgal",
@@ -37,7 +69,7 @@ const participants = [
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/59485ba6-e9ff-411a-b4c7-98b8192a5f5e",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 5
+    "rank": 9
   },
   {
     "name": "Kapil singh chouhan",
@@ -45,7 +77,15 @@ const participants = [
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/6064f958-77f1-4207-8852-c587913f3950",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 6
+    "rank": 10
+  },
+  {
+    "name": "SHIVAM SHARMA",
+    "badges": 10,
+    "milestone": "Milestone 3",
+    "profileUrl": "https://www.skills.google/public_profiles/5048bcd8-04fb-4d8d-9283-14b61dddb5c4",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
+    "rank": 11
   },
   {
     "name": "Shradha",
@@ -53,31 +93,39 @@ const participants = [
     "milestone": "Milestone 3",
     "profileUrl": "https://www.skills.google/public_profiles/61f5ddce-c6e3-4c5e-8885-91221998fd98",
     "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 7
+    "rank": 12
   },
   {
-    "name": "SHIVAM SHARMA",
-    "badges": 9,
+    "name": "keshav gupta",
+    "badges": 6,
     "milestone": "Milestone 2",
-    "profileUrl": "https://www.skills.google/public_profiles/5048bcd8-04fb-4d8d-9283-14b61dddb5c4",
-    "badgeNames": "Analyze Images with the Cloud Vision API, Build a Website on Google Cloud, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Implement Speech and Language Solutions with Pre-trained APIs, Store, Process, and Manage Data on Google Cloud - Console, The Basics of Google Cloud Compute, Using the Google Cloud Speech API",
-    "rank": 8
+    "profileUrl": "https://www.skills.google/public_profiles/ccbe87d5-bb37-4d62-9e04-00f5b7bfe7ed",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Configure Service Accounts and IAM Roles for Google Cloud, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Explore Generative AI in Agent Platform, Using the Google Cloud Speech API",
+    "rank": 13
   },
   {
-    "name": "Cheshta",
+    "name": "Pranshu Singh",
     "badges": 5,
     "milestone": "Milestone 2",
-    "profileUrl": "https://www.skills.google/public_profiles/bc972a4a-c15c-4a8c-be8a-9c341a2177eb",
+    "profileUrl": "https://www.skills.google/public_profiles/7aa65eda-f056-4095-8b54-6b0bcb9891fe",
     "badgeNames": "Analyze Images with the Cloud Vision API, Configure Service Accounts and IAM Roles for Google Cloud, Develop AI-Powered Prototypes in Google AI Studio, Implement Speech and Language Solutions with Pre-trained APIs, The Basics of Google Cloud Compute",
-    "rank": 9
+    "rank": 14
   },
   {
-    "name": "Franklin Babu",
-    "badges": 5,
-    "milestone": "Milestone 2",
-    "profileUrl": "https://www.skills.google/public_profiles/f4325568-cd71-4153-88ad-be14297c9bd0",
-    "badgeNames": "Analyze Images with the Cloud Vision API, Configure Service Accounts and IAM Roles for Google Cloud, Develop AI-Powered Prototypes in Google AI Studio, Implement Speech and Language Solutions with Pre-trained APIs, The Basics of Google Cloud Compute",
-    "rank": 10
+    "name": "Akshita Rawat",
+    "badges": 4,
+    "milestone": "Milestone 1",
+    "profileUrl": "https://www.skills.google/public_profiles/db4286ad-a3e0-403b-b002-aee2270644d1",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Create Your First Gemini Enterprise Application, Develop AI-Powered Prototypes in Google AI Studio, Using the Google Cloud Speech API",
+    "rank": 15
+  },
+  {
+    "name": "Niharika",
+    "badges": 4,
+    "milestone": "Milestone 1",
+    "profileUrl": "https://www.skills.google/public_profiles/40d61247-7f6d-42d5-ab8f-14b16ee00adc",
+    "badgeNames": "Analyze Images with the Cloud Vision API, Develop AI-Powered Prototypes in Google AI Studio, Implement Speech and Language Solutions with Pre-trained APIs, The Basics of Google Cloud Compute",
+    "rank": 16
   },
   {
     "name": "Harsh Vats",
@@ -85,7 +133,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a0ccda05-186e-4912-b22b-d36a41db6d32",
     "badgeNames": "Configure Service Accounts and IAM Roles for Google Cloud, The Basics of Google Cloud Compute",
-    "rank": 11
+    "rank": 17
   },
   {
     "name": "SHIVAM SHARMA",
@@ -93,7 +141,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/175a6814-2b21-4565-bd4c-8ce5a1cb27ad",
     "badgeNames": "Create Your First Gemini Enterprise Application, The Basics of Google Cloud Compute",
-    "rank": 12
+    "rank": 18
   },
   {
     "name": "Aaryan Bansal",
@@ -101,7 +149,23 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/8597b17a-c28f-4b9f-9e36-a4d9dd6e2ebe",
     "badgeNames": "The Basics of Google Cloud Compute",
-    "rank": 13
+    "rank": 19
+  },
+  {
+    "name": "adrina chawla",
+    "badges": 1,
+    "milestone": "No Milestone",
+    "profileUrl": "https://www.skills.google/public_profiles/1db1df62-24c8-44cf-b028-f7c0f06c3c06",
+    "badgeNames": "Create Your First Gemini Enterprise Application",
+    "rank": 20
+  },
+  {
+    "name": "Khushi Jain",
+    "badges": 1,
+    "milestone": "No Milestone",
+    "profileUrl": "https://www.skills.google/public_profiles/933300b1-d26d-47e4-a918-0e0376ae974e",
+    "badgeNames": "The Basics of Google Cloud Compute",
+    "rank": 21
   },
   {
     "name": "Vineet Kumar",
@@ -109,7 +173,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/20db3712-d98e-4b6d-bb77-f6406f53f263",
     "badgeNames": "The Basics of Google Cloud Compute",
-    "rank": 14
+    "rank": 22
   },
   {
     "name": "Aadesh Pandey",
@@ -117,7 +181,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b5581b3e-cf3d-448b-8081-fb1e3d14d277",
     "badgeNames": "",
-    "rank": 15
+    "rank": 23
   },
   {
     "name": "Aadya Jha",
@@ -125,7 +189,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/cc86148e-4328-4245-933b-1755a04695b5",
     "badgeNames": "",
-    "rank": 16
+    "rank": 24
   },
   {
     "name": "Aanya Gupta",
@@ -133,7 +197,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/390d3699-929c-44d9-9e53-701e63fb0161",
     "badgeNames": "",
-    "rank": 17
+    "rank": 25
   },
   {
     "name": "Aarjoo yadav",
@@ -141,7 +205,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d141a55f-d7df-41b9-90f4-3f8774342209",
     "badgeNames": "",
-    "rank": 18
+    "rank": 26
   },
   {
     "name": "Aarush",
@@ -149,7 +213,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/487a9abb-cb0a-49cc-99f8-ab8705d97547",
     "badgeNames": "",
-    "rank": 19
+    "rank": 27
   },
   {
     "name": "Aastha Mittal",
@@ -157,15 +221,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9d1b07e6-a1eb-404d-add8-1ea1a3792e90",
     "badgeNames": "",
-    "rank": 20
-  },
-  {
-    "name": "Aasutosh Dhingra",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/82a72b96-7fde-4958-9f48-f9dcb194d796",
-    "badgeNames": "",
-    "rank": 21
+    "rank": 28
   },
   {
     "name": "Abhay Singh",
@@ -173,7 +229,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/1fb16e08-ddbc-4845-ab11-b97360d1b30f",
     "badgeNames": "",
-    "rank": 22
+    "rank": 29
   },
   {
     "name": "Abhinav Dahima",
@@ -181,7 +237,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2920661c-6980-4d3b-8d01-6f92a43032dd",
     "badgeNames": "",
-    "rank": 23
+    "rank": 30
   },
   {
     "name": "Abhinav Maheshwari",
@@ -189,7 +245,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a572d9bc-9281-4e14-91d9-7511701c809a",
     "badgeNames": "",
-    "rank": 24
+    "rank": 31
   },
   {
     "name": "Abhiraj Gupta",
@@ -197,7 +253,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b2e176f1-d9c8-40a4-a6c0-c0d3861aa4a6",
     "badgeNames": "",
-    "rank": 25
+    "rank": 32
   },
   {
     "name": "Adhyan Chaudhary",
@@ -205,7 +261,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/0b50e9c0-bf7f-4d5d-9fc1-435f404dbc68",
     "badgeNames": "",
-    "rank": 26
+    "rank": 33
   },
   {
     "name": "Aditya",
@@ -213,7 +269,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c72126b6-e6d4-4bbe-a2ad-111792558176",
     "badgeNames": "",
-    "rank": 27
+    "rank": 34
   },
   {
     "name": "Aditya",
@@ -221,7 +277,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a96edf50-9f42-4450-8988-2c24882ed1b9",
     "badgeNames": "",
-    "rank": 28
+    "rank": 35
   },
   {
     "name": "Aditya garg",
@@ -229,7 +285,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/552329e8-6b75-4c09-9abb-84b649339aac",
     "badgeNames": "",
-    "rank": 29
+    "rank": 36
   },
   {
     "name": "Aditya Goyal",
@@ -237,7 +293,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9370c1bb-8c12-42e2-afba-be97f2f5389f",
     "badgeNames": "",
-    "rank": 30
+    "rank": 37
   },
   {
     "name": "Aditya Jain",
@@ -245,7 +301,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/931d24b2-ccc7-4f9e-835b-2e4629a114a7",
     "badgeNames": "",
-    "rank": 31
+    "rank": 38
   },
   {
     "name": "Aditya Kumar",
@@ -253,7 +309,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/8e48ddf9-5b9f-4120-be3b-05ea49ac2a3c",
     "badgeNames": "",
-    "rank": 32
+    "rank": 39
   },
   {
     "name": "Aditya kumar",
@@ -261,7 +317,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/8c564583-f7ab-4356-81fb-7a6187762cd0",
     "badgeNames": "",
-    "rank": 33
+    "rank": 40
   },
   {
     "name": "Aditya Kumar Asati",
@@ -269,7 +325,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d2a688a2-494e-4d09-952f-f074bbfbb0d2",
     "badgeNames": "",
-    "rank": 34
+    "rank": 41
   },
   {
     "name": "Aditya Kumar Tiwari",
@@ -277,7 +333,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/e345f1d9-66f7-4aa5-9996-65b29ea9a350",
     "badgeNames": "",
-    "rank": 35
+    "rank": 42
   },
   {
     "name": "Aditya Raj",
@@ -285,7 +341,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/47534cbc-3c08-49ac-8701-9e49eaa5cc26",
     "badgeNames": "",
-    "rank": 36
+    "rank": 43
   },
   {
     "name": "Aditya Singh Sisaudiya",
@@ -293,7 +349,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b138f7ec-70c0-49b7-a58c-9eaf2e008ce4",
     "badgeNames": "",
-    "rank": 37
+    "rank": 44
   },
   {
     "name": "Aditya Suri",
@@ -301,15 +357,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b2ce5243-aa30-4f90-b3ca-577420bec2d4",
     "badgeNames": "",
-    "rank": 38
-  },
-  {
-    "name": "adrina chawla",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/1db1df62-24c8-44cf-b028-f7c0f06c3c06",
-    "badgeNames": "",
-    "rank": 39
+    "rank": 45
   },
   {
     "name": "Agamy",
@@ -317,7 +365,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/220109ff-45da-4a1f-9ae5-9bdbeae30e2c",
     "badgeNames": "",
-    "rank": 40
+    "rank": 46
   },
   {
     "name": "Ajay kumar",
@@ -325,7 +373,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/705e3764-88b8-4feb-81a1-56caa8f6b09f",
     "badgeNames": "",
-    "rank": 41
+    "rank": 47
   },
   {
     "name": "Akshaj Bansal",
@@ -333,7 +381,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/603dcb6b-475a-48c6-a19a-ff85fab6f03f",
     "badgeNames": "",
-    "rank": 42
+    "rank": 48
   },
   {
     "name": "Akshat Saraswat",
@@ -341,7 +389,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/dd075d08-4c92-4934-a888-fdc539009cb2",
     "badgeNames": "",
-    "rank": 43
+    "rank": 49
   },
   {
     "name": "Akshat Sharma",
@@ -349,7 +397,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/1351b55b-ca33-4264-9ef0-6362d8fabc70",
     "badgeNames": "",
-    "rank": 44
+    "rank": 50
   },
   {
     "name": "Akshay Saxena",
@@ -357,7 +405,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ef9ee6a3-7ab7-4d99-81cf-3af937039e3f",
     "badgeNames": "",
-    "rank": 45
+    "rank": 51
   },
   {
     "name": "akshita mittal",
@@ -365,15 +413,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d7cd250a-c6bc-449e-9375-dec740433855",
     "badgeNames": "",
-    "rank": 46
-  },
-  {
-    "name": "Akshita Rawat",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/db4286ad-a3e0-403b-b002-aee2270644d1",
-    "badgeNames": "",
-    "rank": 47
+    "rank": 52
   },
   {
     "name": "Amrita",
@@ -381,7 +421,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6608dbf1-4cad-4703-aabb-4c35eee28c7c",
     "badgeNames": "",
-    "rank": 48
+    "rank": 53
   },
   {
     "name": "Anand Kumar Pankaj",
@@ -389,7 +429,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/5cbc9653-17d4-42d8-adc0-4c9b0ac5395a",
     "badgeNames": "",
-    "rank": 49
+    "rank": 54
   },
   {
     "name": "Ananya Mishra",
@@ -397,7 +437,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/04286dd7-46c2-4f19-a7fb-e40a4ac0bca9",
     "badgeNames": "",
-    "rank": 50
+    "rank": 55
   },
   {
     "name": "Anjali Rai",
@@ -405,7 +445,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f67e919e-fa29-47bf-b287-2a572d80de23",
     "badgeNames": "",
-    "rank": 51
+    "rank": 56
   },
   {
     "name": "Ankit Kumar yadav",
@@ -413,7 +453,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ec1ca583-ea00-4d67-81fe-96698ae13d51",
     "badgeNames": "",
-    "rank": 52
+    "rank": 57
   },
   {
     "name": "Ansh Goyal",
@@ -421,7 +461,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/800ae8c5-5f2c-479c-958a-4cdb0589c445",
     "badgeNames": "",
-    "rank": 53
+    "rank": 58
   },
   {
     "name": "Ansh Tiwari",
@@ -429,7 +469,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/745b43a7-e9a8-4119-873c-92ec644feadb",
     "badgeNames": "",
-    "rank": 54
+    "rank": 59
   },
   {
     "name": "Anshika Kumari",
@@ -437,7 +477,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ae009d5b-fb76-48c6-ba2c-843bf06d0697",
     "badgeNames": "",
-    "rank": 55
+    "rank": 60
   },
   {
     "name": "Anshul",
@@ -445,7 +485,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/52e9cb25-761b-4248-89e5-82552c7d9f67",
     "badgeNames": "",
-    "rank": 56
+    "rank": 61
   },
   {
     "name": "Anshul Kamboj",
@@ -453,7 +493,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d2d360c2-d958-4c82-bf8b-e299ad21e9cd",
     "badgeNames": "",
-    "rank": 57
+    "rank": 62
   },
   {
     "name": "Anterpreet",
@@ -461,15 +501,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f4d7c814-16b6-495c-9056-937116232381",
     "badgeNames": "",
-    "rank": 58
-  },
-  {
-    "name": "Anushka",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/43803bfc-3332-4740-9b12-e4d9e48b74f1",
-    "badgeNames": "",
-    "rank": 59
+    "rank": 63
   },
   {
     "name": "Anushka Shukla",
@@ -477,7 +509,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a6caea51-0133-4fcd-b59d-9c011ce73d78",
     "badgeNames": "",
-    "rank": 60
+    "rank": 64
   },
   {
     "name": "Anwita Arora",
@@ -485,7 +517,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c2f0de51-ea84-48b9-85ef-04d3d534a7d8",
     "badgeNames": "",
-    "rank": 61
+    "rank": 65
   },
   {
     "name": "Archie Bansal",
@@ -493,7 +525,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/e2505cc2-f82a-4715-9caa-69c618b62fda",
     "badgeNames": "",
-    "rank": 62
+    "rank": 66
   },
   {
     "name": "Arshdeep Kaur",
@@ -501,7 +533,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/340985ad-fa83-4a66-b134-e59d0626c90b",
     "badgeNames": "",
-    "rank": 63
+    "rank": 67
   },
   {
     "name": "Arsheya Jain",
@@ -509,7 +541,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/fddbe531-8a07-481f-ba93-5729b8ad1a2e",
     "badgeNames": "",
-    "rank": 64
+    "rank": 68
   },
   {
     "name": "Arshia",
@@ -517,7 +549,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/5430e448-0c12-4dc6-8212-8258fcad4630",
     "badgeNames": "",
-    "rank": 65
+    "rank": 69
   },
   {
     "name": "Arun Kumar",
@@ -525,7 +557,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6d613ac7-511c-4f6b-928a-d255e9629048",
     "badgeNames": "",
-    "rank": 66
+    "rank": 70
   },
   {
     "name": "Aryan",
@@ -533,7 +565,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/97af13d3-f29c-4ac1-bbfb-28c7dd0b9a24",
     "badgeNames": "",
-    "rank": 67
+    "rank": 71
   },
   {
     "name": "Aryan Keshri",
@@ -541,7 +573,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/e3b54f73-12c6-4fac-aa21-7ca34624e1a6",
     "badgeNames": "",
-    "rank": 68
+    "rank": 72
   },
   {
     "name": "Aryan Raj",
@@ -549,7 +581,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2b4215aa-b5fc-484e-a34f-70f7e7acb7aa",
     "badgeNames": "",
-    "rank": 69
+    "rank": 73
   },
   {
     "name": "Aryan Saraswat",
@@ -557,7 +589,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2e9f42f0-5c28-4b8e-b60c-e67443288fb3",
     "badgeNames": "",
-    "rank": 70
+    "rank": 74
   },
   {
     "name": "Aryan Verma",
@@ -565,7 +597,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6a265017-4de6-4820-9b5b-b3939520ed10",
     "badgeNames": "",
-    "rank": 71
+    "rank": 75
   },
   {
     "name": "AryanYadav",
@@ -573,7 +605,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/352bad22-0e8f-4ea1-9a9d-1a0976cae1dd",
     "badgeNames": "",
-    "rank": 72
+    "rank": 76
   },
   {
     "name": "Ashia Choudhary",
@@ -581,7 +613,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/eedfb696-c7a7-44d5-b9eb-597405e49035",
     "badgeNames": "",
-    "rank": 73
+    "rank": 77
   },
   {
     "name": "Ashish",
@@ -589,7 +621,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f2dc39f6-46a9-46c8-8e52-856c3c495eed",
     "badgeNames": "",
-    "rank": 74
+    "rank": 78
   },
   {
     "name": "Atharv Gautam",
@@ -597,7 +629,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a45b9532-ebad-4818-893c-a47c10cfd489",
     "badgeNames": "",
-    "rank": 75
+    "rank": 79
   },
   {
     "name": "Atharva",
@@ -605,7 +637,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/96da638b-c332-476e-a39e-b9b49d9eca92",
     "badgeNames": "",
-    "rank": 76
+    "rank": 80
   },
   {
     "name": "Atishay Jain",
@@ -613,7 +645,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/137dcffd-2ff9-4c12-b262-1e09d9f4d2b8",
     "badgeNames": "",
-    "rank": 77
+    "rank": 81
   },
   {
     "name": "Ayush Anand",
@@ -621,7 +653,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/549fcd9a-2634-445e-b49e-ec5798d9a7e5",
     "badgeNames": "",
-    "rank": 78
+    "rank": 82
   },
   {
     "name": "Ayush Hemdani",
@@ -629,7 +661,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/bb310f67-c31a-4c64-ace5-8a51cfc3054f",
     "badgeNames": "",
-    "rank": 79
+    "rank": 83
   },
   {
     "name": "Ayushi Singh",
@@ -637,7 +669,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b696a0ad-0faf-476e-bb0d-10c320588d46",
     "badgeNames": "",
-    "rank": 80
+    "rank": 84
   },
   {
     "name": "Bhawna",
@@ -645,7 +677,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/e6b6b9fe-1c81-46c2-a7b7-3c5b2349ba62",
     "badgeNames": "",
-    "rank": 81
+    "rank": 85
   },
   {
     "name": "Bhumi pruthi",
@@ -653,7 +685,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c5927033-5e22-43a5-bb23-e2381a0bf981",
     "badgeNames": "",
-    "rank": 82
+    "rank": 86
   },
   {
     "name": "Bhumika Garsari",
@@ -661,7 +693,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9b15de71-77d0-4117-8efa-cdfe8b73806a",
     "badgeNames": "",
-    "rank": 83
+    "rank": 87
   },
   {
     "name": "Bhuvam",
@@ -669,7 +701,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/294aea44-6f87-487c-8db4-d1c79ee9dfc3",
     "badgeNames": "",
-    "rank": 84
+    "rank": 88
   },
   {
     "name": "Chetan S Metri",
@@ -677,7 +709,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d894d813-6dd4-45f0-9353-7b893c2a1c0f",
     "badgeNames": "",
-    "rank": 85
+    "rank": 89
   },
   {
     "name": "chirag shakyaa",
@@ -685,7 +717,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ecc96b53-0a80-459b-9fc6-38418b365537",
     "badgeNames": "",
-    "rank": 86
+    "rank": 90
   },
   {
     "name": "Code elva",
@@ -693,7 +725,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/0e81a5e2-712a-43db-aecf-e937c0030c6d",
     "badgeNames": "",
-    "rank": 87
+    "rank": 91
   },
   {
     "name": "Daksh Pratap Singh",
@@ -701,7 +733,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ebc812ff-8a68-49d3-8d82-32b447fcee22",
     "badgeNames": "",
-    "rank": 88
+    "rank": 92
   },
   {
     "name": "Deepanshi Dhingra",
@@ -709,7 +741,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/7bd66582-6463-4dde-9949-ca1c89c76e86",
     "badgeNames": "",
-    "rank": 89
+    "rank": 93
   },
   {
     "name": "Dev Chauhan",
@@ -717,7 +749,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9bba108e-9175-4b17-ac9b-c364bdc73f75",
     "badgeNames": "",
-    "rank": 90
+    "rank": 94
   },
   {
     "name": "Dev Ruhal",
@@ -725,7 +757,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a0918eff-54f0-4034-9e72-87e7266843d1",
     "badgeNames": "",
-    "rank": 91
+    "rank": 95
   },
   {
     "name": "Devanshi Shami",
@@ -733,7 +765,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/cacc347c-56e6-47d6-8362-7b5b39fe326e",
     "badgeNames": "",
-    "rank": 92
+    "rank": 96
   },
   {
     "name": "dhruv gupta",
@@ -741,7 +773,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/26e8a6a8-3828-4527-99f5-33cce762fd0b",
     "badgeNames": "",
-    "rank": 93
+    "rank": 97
   },
   {
     "name": "Diksha",
@@ -749,7 +781,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/393b9a5b-f869-49e8-ade4-cd9ff394e354",
     "badgeNames": "",
-    "rank": 94
+    "rank": 98
   },
   {
     "name": "Diksha Jain",
@@ -757,7 +789,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/61438570-3f30-44d6-bcee-5788cdb6fc61",
     "badgeNames": "",
-    "rank": 95
+    "rank": 99
   },
   {
     "name": "Diksha Loungani",
@@ -765,7 +797,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/be5dff71-830e-4b73-befa-159552ee5008",
     "badgeNames": "",
-    "rank": 96
+    "rank": 100
   },
   {
     "name": "Disha Aggarwal",
@@ -773,7 +805,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ec0e9f2d-2072-4a5a-8d05-d6853e44e929",
     "badgeNames": "",
-    "rank": 97
+    "rank": 101
   },
   {
     "name": "Dishita Singh",
@@ -781,7 +813,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ee841788-a30e-4d0e-a3ac-947caea8275a",
     "badgeNames": "",
-    "rank": 98
+    "rank": 102
   },
   {
     "name": "Divya Arora",
@@ -789,7 +821,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b072fa4d-36cf-44fc-b767-76cb9b9df26d",
     "badgeNames": "",
-    "rank": 99
+    "rank": 103
   },
   {
     "name": "Divyansh Chandel",
@@ -797,7 +829,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/40a1fbc1-76e4-4dd0-9a16-2d9696ec7e93",
     "badgeNames": "",
-    "rank": 100
+    "rank": 104
   },
   {
     "name": "Divyansh Kumar",
@@ -805,7 +837,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b35183a6-6b03-4780-ae65-86493182eec1",
     "badgeNames": "",
-    "rank": 101
+    "rank": 105
   },
   {
     "name": "Divyansh Raj",
@@ -813,7 +845,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c10acd40-1408-48b0-bb94-623e6a263075",
     "badgeNames": "",
-    "rank": 102
+    "rank": 106
   },
   {
     "name": "Divyanshi",
@@ -821,7 +853,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/aad0497b-fa84-417f-8bcb-1a2598ced3a4",
     "badgeNames": "",
-    "rank": 103
+    "rank": 107
   },
   {
     "name": "Doti Sandhya Rani",
@@ -829,7 +861,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/42efb821-8d8e-43cf-b68c-75abebf6c9ee",
     "badgeNames": "",
-    "rank": 104
+    "rank": 108
   },
   {
     "name": "Eklavya",
@@ -837,7 +869,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/0b986b9b-81f0-440d-b2c4-4454fec598c1",
     "badgeNames": "",
-    "rank": 105
+    "rank": 109
   },
   {
     "name": "EKLAVYA THAKUR",
@@ -845,7 +877,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/4a367ee6-2267-4796-bdfe-88a70b21a5bb",
     "badgeNames": "",
-    "rank": 106
+    "rank": 110
   },
   {
     "name": "Gargi Monga",
@@ -853,7 +885,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/234f4043-0dea-49b3-8071-644aa5aebf99",
     "badgeNames": "",
-    "rank": 107
+    "rank": 111
   },
   {
     "name": "GAURAV BANSAL",
@@ -861,7 +893,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a36152b5-b9ab-4eb1-bc2c-b1fd875b4062",
     "badgeNames": "",
-    "rank": 108
+    "rank": 112
   },
   {
     "name": "Gaurav Kumar",
@@ -869,7 +901,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/dbf8be6c-ab1f-4cbf-9ee7-255663866b47",
     "badgeNames": "",
-    "rank": 109
+    "rank": 113
   },
   {
     "name": "Gauri",
@@ -877,7 +909,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/002e1724-ed94-4d36-8557-78079da0e3ce",
     "badgeNames": "",
-    "rank": 110
+    "rank": 114
   },
   {
     "name": "Gautam Singh",
@@ -885,7 +917,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/3ec2c731-d236-4d29-a95f-2f6034132c61",
     "badgeNames": "",
-    "rank": 111
+    "rank": 115
   },
   {
     "name": "Ginni",
@@ -893,7 +925,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ad220e4a-11dd-4036-bfc4-8436eca2e91e",
     "badgeNames": "",
-    "rank": 112
+    "rank": 116
   },
   {
     "name": "Granth Kankarwal",
@@ -901,7 +933,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2b69388a-9c02-47ee-be0e-125ec6b2004e",
     "badgeNames": "",
-    "rank": 113
+    "rank": 117
   },
   {
     "name": "Gurkirat singh",
@@ -909,7 +941,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6c359aca-0758-4d95-8ad7-0901d8bc7471",
     "badgeNames": "",
-    "rank": 114
+    "rank": 118
   },
   {
     "name": "Harmanpreet Sidhu",
@@ -917,7 +949,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/83e8977d-03fa-44f1-86fc-d441f9d96f8c",
     "badgeNames": "",
-    "rank": 115
+    "rank": 119
   },
   {
     "name": "harneet",
@@ -925,7 +957,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2bd4ad16-06f7-400a-9cd2-4c5d6fe9fe5f",
     "badgeNames": "",
-    "rank": 116
+    "rank": 120
   },
   {
     "name": "Harry Gautam",
@@ -933,7 +965,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/cb8800b4-be83-415b-9bb0-56e38e2f4b51",
     "badgeNames": "",
-    "rank": 117
+    "rank": 121
   },
   {
     "name": "Harsh Tangar",
@@ -941,7 +973,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/4b43f05c-8314-4ee5-973b-aae73993b041",
     "badgeNames": "",
-    "rank": 118
+    "rank": 122
   },
   {
     "name": "Harshad Pathak",
@@ -949,7 +981,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/0e17d44e-da0f-4730-9991-64fcf477b353",
     "badgeNames": "",
-    "rank": 119
+    "rank": 123
   },
   {
     "name": "Harshit",
@@ -957,7 +989,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/769cfbd6-295b-41ff-a843-75f7e281e5e5",
     "badgeNames": "",
-    "rank": 120
+    "rank": 124
   },
   {
     "name": "Harshit Malik",
@@ -965,7 +997,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9417c576-3ac0-4b2a-8193-d006fb2b5181",
     "badgeNames": "",
-    "rank": 121
+    "rank": 125
   },
   {
     "name": "Harsita",
@@ -973,7 +1005,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/339b4ca9-1ccd-497f-a852-2d98ddce292e",
     "badgeNames": "",
-    "rank": 122
+    "rank": 126
   },
   {
     "name": "Hitakshi Gupta",
@@ -981,7 +1013,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/281de1cd-5340-4789-8eab-5b0f82f85392",
     "badgeNames": "",
-    "rank": 123
+    "rank": 127
   },
   {
     "name": "Honny",
@@ -989,7 +1021,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/7870c9b9-9d6c-4d20-b0ec-5b30de5fcd4e",
     "badgeNames": "",
-    "rank": 124
+    "rank": 128
   },
   {
     "name": "Injamul haque",
@@ -997,7 +1029,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6cf6b38c-dad9-46cb-b664-263e35ea1f0a",
     "badgeNames": "",
-    "rank": 125
+    "rank": 129
   },
   {
     "name": "Isha Mittal",
@@ -1005,7 +1037,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d983cb9d-379a-4a58-99fa-200eeda1e17b",
     "badgeNames": "",
-    "rank": 126
+    "rank": 130
   },
   {
     "name": "Ishant Lakhchaura",
@@ -1013,7 +1045,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/5333b07b-a730-4694-93d9-7de65c7ae762",
     "badgeNames": "",
-    "rank": 127
+    "rank": 131
   },
   {
     "name": "Ishita Chauhan",
@@ -1021,7 +1053,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a39cebaf-e6e8-4917-a603-4b9fc6852395",
     "badgeNames": "",
-    "rank": 128
+    "rank": 132
   },
   {
     "name": "Ishita Pushker",
@@ -1029,7 +1061,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/972acf22-3302-4bcb-97fb-e0f0f45fc41a",
     "badgeNames": "",
-    "rank": 129
+    "rank": 133
   },
   {
     "name": "Jagrati Shome",
@@ -1037,7 +1069,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/3bbaed5a-c81d-4dfa-b935-55e4e9408dca",
     "badgeNames": "",
-    "rank": 130
+    "rank": 134
   },
   {
     "name": "Jaivardhan singh rathore",
@@ -1045,7 +1077,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/478c7a56-828e-4616-aafb-262ed0d89467",
     "badgeNames": "",
-    "rank": 131
+    "rank": 135
   },
   {
     "name": "Jasmeet anand",
@@ -1053,7 +1085,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/cd6adb66-bf1d-4f39-85f5-6fc5431c2b1f",
     "badgeNames": "",
-    "rank": 132
+    "rank": 136
   },
   {
     "name": "Jatin saini",
@@ -1061,7 +1093,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d947fc27-592e-47af-ad97-d569a1a029da",
     "badgeNames": "",
-    "rank": 133
+    "rank": 137
   },
   {
     "name": "Jayash Bindra",
@@ -1069,7 +1101,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d5a67929-5dc4-4fef-9150-763147f68448",
     "badgeNames": "",
-    "rank": 134
+    "rank": 138
   },
   {
     "name": "Jeeya",
@@ -1077,7 +1109,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6cf6c6e7-acb2-4258-a962-3990784d251c",
     "badgeNames": "",
-    "rank": 135
+    "rank": 139
   },
   {
     "name": "Jitendra Kumar Jha",
@@ -1085,7 +1117,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c014327f-590d-45bd-b534-432bf11f48c9",
     "badgeNames": "",
-    "rank": 136
+    "rank": 140
   },
   {
     "name": "Jiya Rawal",
@@ -1093,7 +1125,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/8b61ab42-f375-4caf-8c47-fa63a1634d88",
     "badgeNames": "",
-    "rank": 137
+    "rank": 141
   },
   {
     "name": "kajal Rajpal singh",
@@ -1101,7 +1133,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/196c7b80-b4ba-437b-a607-2b6462c44442",
     "badgeNames": "",
-    "rank": 138
+    "rank": 142
   },
   {
     "name": "Kanishka Bhatt",
@@ -1109,7 +1141,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9c285fcd-d1b3-4653-85ba-9620ecf92813",
     "badgeNames": "",
-    "rank": 139
+    "rank": 143
   },
   {
     "name": "Kartik Joshi",
@@ -1117,7 +1149,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/7e316def-65fc-46ae-99b3-b6552ecf4fc4",
     "badgeNames": "",
-    "rank": 140
+    "rank": 144
   },
   {
     "name": "Kartik Sharma",
@@ -1125,7 +1157,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/cc9018e9-a0c1-4c0e-80ca-c79ba406f38a",
     "badgeNames": "",
-    "rank": 141
+    "rank": 145
   },
   {
     "name": "Kashish Joshi",
@@ -1133,7 +1165,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b750bb7f-1acb-40ed-a1e0-3db07fa1231c",
     "badgeNames": "",
-    "rank": 142
+    "rank": 146
   },
   {
     "name": "Kavya",
@@ -1141,7 +1173,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2dffd3fe-acaa-414b-a031-45c55635a79d",
     "badgeNames": "",
-    "rank": 143
+    "rank": 147
   },
   {
     "name": "Kavya goyal",
@@ -1149,7 +1181,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/cc79eb80-6586-4044-ab2a-4e4e3b9fb7b3",
     "badgeNames": "",
-    "rank": 144
+    "rank": 148
   },
   {
     "name": "Keshav Gupta",
@@ -1157,15 +1189,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/6ae19b8a-5ec7-487f-868a-0aac4c7749ca",
     "badgeNames": "",
-    "rank": 145
-  },
-  {
-    "name": "keshav gupta",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/ccbe87d5-bb37-4d62-9e04-00f5b7bfe7ed",
-    "badgeNames": "",
-    "rank": 146
+    "rank": 149
   },
   {
     "name": "Keshav kumar mishra",
@@ -1173,7 +1197,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/85a18273-ec5f-4848-ad5d-ca8eb001ff48",
     "badgeNames": "",
-    "rank": 147
+    "rank": 150
   },
   {
     "name": "Keshav Murari",
@@ -1181,7 +1205,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/73aafdbb-3221-457b-a020-821fa9614382",
     "badgeNames": "",
-    "rank": 148
+    "rank": 151
   },
   {
     "name": "Khelesh Verma",
@@ -1189,7 +1213,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2b0a2d64-55fd-48d9-a918-f2f88f235804",
     "badgeNames": "",
-    "rank": 149
+    "rank": 152
   },
   {
     "name": "Khushi",
@@ -1197,7 +1221,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/de51fb14-7e64-40c3-aeaf-07bd3ff51e90",
     "badgeNames": "",
-    "rank": 150
+    "rank": 153
   },
   {
     "name": "Khushi Chhakara",
@@ -1205,7 +1229,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/34703400-f301-486d-9f9f-5fb88798766b",
     "badgeNames": "",
-    "rank": 151
+    "rank": 154
   },
   {
     "name": "Khushi Garg",
@@ -1213,7 +1237,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/798e3155-e31e-47a6-83e5-6ba85fdec92e",
     "badgeNames": "",
-    "rank": 152
+    "rank": 155
   },
   {
     "name": "Khushi Garg",
@@ -1221,15 +1245,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/475cb267-9733-4463-b062-8081fc21afcf",
     "badgeNames": "",
-    "rank": 153
-  },
-  {
-    "name": "Khushi Jain",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/933300b1-d26d-47e4-a918-0e0376ae974e",
-    "badgeNames": "",
-    "rank": 154
+    "rank": 156
   },
   {
     "name": "Kritika Gupta",
@@ -1237,7 +1253,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/da897490-edde-4b31-a188-c60697d7c3fa",
     "badgeNames": "",
-    "rank": 155
+    "rank": 157
   },
   {
     "name": "Kumari shreya yadav",
@@ -1245,7 +1261,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/4b4cd79b-6747-4736-b41e-b90566eae702",
     "badgeNames": "",
-    "rank": 156
+    "rank": 158
   },
   {
     "name": "Kumud Gupta",
@@ -1253,7 +1269,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/9ff6b272-32b1-419d-9147-b3cd7597c14f",
     "badgeNames": "",
-    "rank": 157
+    "rank": 159
   },
   {
     "name": "KUNAL CHAUDHARY",
@@ -1261,7 +1277,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/742d1ba0-138f-4157-adbb-921b69c30cba",
     "badgeNames": "",
-    "rank": 158
+    "rank": 160
   },
   {
     "name": "Kunal Gupta",
@@ -1269,7 +1285,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a8abba7c-0901-4153-b372-d9b63b379b3d",
     "badgeNames": "",
-    "rank": 159
+    "rank": 161
   },
   {
     "name": "Kunjal",
@@ -1277,7 +1293,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f19ef240-7534-43ff-be4c-c33d3fb8bfa4",
     "badgeNames": "",
-    "rank": 160
+    "rank": 162
   },
   {
     "name": "Lakshay",
@@ -1285,7 +1301,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/0529018a-abb3-4844-a825-40156f1d4691",
     "badgeNames": "",
-    "rank": 161
+    "rank": 163
   },
   {
     "name": "Lakshita Bansal",
@@ -1293,7 +1309,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/4ff27865-8c1f-4feb-ba6e-4d658a3a4043",
     "badgeNames": "",
-    "rank": 162
+    "rank": 164
   },
   {
     "name": "Lakshya Raj",
@@ -1301,7 +1317,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/54247f92-44d3-4d72-893f-c5433721a971",
     "badgeNames": "",
-    "rank": 163
+    "rank": 165
   },
   {
     "name": "Lokesh Sharma",
@@ -1309,7 +1325,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c40000eb-2e92-4e52-90d5-a1fca722cea0",
     "badgeNames": "",
-    "rank": 164
+    "rank": 166
   },
   {
     "name": "Luvkesh Sharma",
@@ -1317,7 +1333,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/3e16d6fa-7f2b-4510-b798-c5b4d4bccedb",
     "badgeNames": "",
-    "rank": 165
+    "rank": 167
   },
   {
     "name": "Mahica Patel",
@@ -1325,7 +1341,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/179acadb-5b31-4cba-9787-999c891742ca",
     "badgeNames": "",
-    "rank": 166
+    "rank": 168
   },
   {
     "name": "Mamta Kumari",
@@ -1333,7 +1349,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/2dcff9d7-4a41-40a2-8a87-489e15810573",
     "badgeNames": "",
-    "rank": 167
+    "rank": 169
   },
   {
     "name": "Manan Aggarwal",
@@ -1341,7 +1357,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d688e5e7-e192-420a-b511-d914d8173687",
     "badgeNames": "",
-    "rank": 168
+    "rank": 170
   },
   {
     "name": "Manas panwar",
@@ -1349,7 +1365,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f02e8048-a10e-481d-a535-347f31d27400",
     "badgeNames": "",
-    "rank": 169
+    "rank": 171
   },
   {
     "name": "Manav Mahawar",
@@ -1357,7 +1373,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/93b59b0d-f697-47ee-8a26-22851c57358a",
     "badgeNames": "",
-    "rank": 170
+    "rank": 172
   },
   {
     "name": "Mansi Bansal",
@@ -1365,7 +1381,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/297f7920-85db-411b-8a21-4b07ecffe1eb",
     "badgeNames": "",
-    "rank": 171
+    "rank": 173
   },
   {
     "name": "Mansifat singh chadha",
@@ -1373,7 +1389,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c9ef6cdf-8d3c-4a2c-88d2-2226d1ad90ac",
     "badgeNames": "",
-    "rank": 172
+    "rank": 174
   },
   {
     "name": "Mayank Jain",
@@ -1381,7 +1397,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/8e77e90a-5080-4fb7-b7dc-fd6cff9f1509",
     "badgeNames": "",
-    "rank": 173
+    "rank": 175
   },
   {
     "name": "Meet Bindal",
@@ -1389,7 +1405,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/0c5395de-4df9-4794-8308-41e094c12db0",
     "badgeNames": "",
-    "rank": 174
+    "rank": 176
   },
   {
     "name": "Meet Sharma",
@@ -1397,7 +1413,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/5e21bc7b-70a0-4da4-a6e2-2f4b98bd9dda",
     "badgeNames": "",
-    "rank": 175
+    "rank": 177
   },
   {
     "name": "Megha Chauhan",
@@ -1405,7 +1421,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/253209f3-8812-4193-9c10-548d86d0690c",
     "badgeNames": "",
-    "rank": 176
+    "rank": 178
   },
   {
     "name": "Mehar Dheer",
@@ -1413,7 +1429,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ecf2ca66-2935-4972-8084-4f923341dafd",
     "badgeNames": "",
-    "rank": 177
+    "rank": 179
   },
   {
     "name": "Monu Singh",
@@ -1421,7 +1437,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/be06b79f-6c35-48eb-af56-807f9fc38ed3",
     "badgeNames": "",
-    "rank": 178
+    "rank": 180
   },
   {
     "name": "Myst",
@@ -1429,7 +1445,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/642d9414-d8f6-4b24-8302-ee5662dd8a21",
     "badgeNames": "",
-    "rank": 179
+    "rank": 181
   },
   {
     "name": "Naman Kankaria",
@@ -1437,7 +1453,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c31b9931-3d8d-4d55-bd62-fe3ad27aad0f",
     "badgeNames": "",
-    "rank": 180
+    "rank": 182
   },
   {
     "name": "Nandini Singh",
@@ -1445,7 +1461,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/76a7769a-a914-4e1e-a45d-f7d5eb3d46a2",
     "badgeNames": "",
-    "rank": 181
+    "rank": 183
   },
   {
     "name": "Navya Jaiswal",
@@ -1453,7 +1469,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/8a5fe3a6-b23e-4de4-b363-16ecf950644f",
     "badgeNames": "",
-    "rank": 182
+    "rank": 184
   },
   {
     "name": "NAYANIKAA",
@@ -1461,7 +1477,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/1d96e366-2a4d-4d25-9ee5-6d354890fcc9",
     "badgeNames": "",
-    "rank": 183
+    "rank": 185
   },
   {
     "name": "NEHAL",
@@ -1469,7 +1485,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/4cf95448-09a5-440a-be4d-d0d7793ad680",
     "badgeNames": "",
-    "rank": 184
+    "rank": 186
   },
   {
     "name": "Nidhi",
@@ -1477,15 +1493,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b53ebed0-c477-4ef3-8c6f-32a7b6c3911f",
     "badgeNames": "",
-    "rank": 185
-  },
-  {
-    "name": "Niharika",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/40d61247-7f6d-42d5-ab8f-14b16ee00adc",
-    "badgeNames": "",
-    "rank": 186
+    "rank": 187
   },
   {
     "name": "Nikhil Kumar Singh",
@@ -1493,7 +1501,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/d9677af5-fa23-4359-921c-0a5ff2fc7cb2",
     "badgeNames": "",
-    "rank": 187
+    "rank": 188
   },
   {
     "name": "Nikunj Garg",
@@ -1501,7 +1509,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/95cad0b2-7a69-4d2d-9595-79c7c6a52be2",
     "badgeNames": "",
-    "rank": 188
+    "rank": 189
   },
   {
     "name": "Nisha Saraswat",
@@ -1509,7 +1517,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b39f8f33-1605-4c83-b96c-b638a95efd2c",
     "badgeNames": "",
-    "rank": 189
+    "rank": 190
   },
   {
     "name": "Nishant Sehrawat",
@@ -1517,7 +1525,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/ee745a63-d33d-4a96-86b1-75bd153e7c2f",
     "badgeNames": "",
-    "rank": 190
+    "rank": 191
   },
   {
     "name": "Nitin Maurya",
@@ -1525,7 +1533,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/69b68876-9921-48e4-aeb6-01ddd6bac64b",
     "badgeNames": "",
-    "rank": 191
+    "rank": 192
   },
   {
     "name": "Palak Raj",
@@ -1533,7 +1541,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/067dabae-7948-4878-bccd-f85a9fddd368",
     "badgeNames": "",
-    "rank": 192
+    "rank": 193
   },
   {
     "name": "Palak Thakur",
@@ -1541,7 +1549,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b9dc630b-4d3f-4e80-b902-89baed59ecdb",
     "badgeNames": "",
-    "rank": 193
+    "rank": 194
   },
   {
     "name": "Param Grover",
@@ -1549,7 +1557,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c7761580-4666-475d-9ce7-6f9266974f8b",
     "badgeNames": "",
-    "rank": 194
+    "rank": 195
   },
   {
     "name": "Paras",
@@ -1557,7 +1565,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f7d89c41-d668-41db-9ce4-dc45afabf4b7",
     "badgeNames": "",
-    "rank": 195
+    "rank": 196
   },
   {
     "name": "Parth Bhuraria",
@@ -1565,7 +1573,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/b1f5fb89-e224-4ab7-87e2-fd638262ac46",
     "badgeNames": "",
-    "rank": 196
+    "rank": 197
   },
   {
     "name": "Parth Lamba",
@@ -1573,7 +1581,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/f70fb788-dd9c-40fb-88d2-aa65667d81a1",
     "badgeNames": "",
-    "rank": 197
+    "rank": 198
   },
   {
     "name": "Pawan",
@@ -1581,7 +1589,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/a2ca6376-5d3e-4ea1-a739-5bb3c4d4eb67",
     "badgeNames": "",
-    "rank": 198
+    "rank": 199
   },
   {
     "name": "Piyush Gupta",
@@ -1589,7 +1597,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/4cba2725-ec4d-4cd9-8e09-c2a2476f6bf4",
     "badgeNames": "",
-    "rank": 199
+    "rank": 200
   },
   {
     "name": "Prakash Mishra",
@@ -1597,7 +1605,7 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/c0fd9290-8e2c-4921-ac05-396bc6f8cb84",
     "badgeNames": "",
-    "rank": 200
+    "rank": 201
   },
   {
     "name": "Pranati Singh",
@@ -1605,21 +1613,13 @@ const participants = [
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/93a41e2f-d665-4cb0-a8e9-17f3b3d1fdc3",
     "badgeNames": "",
-    "rank": 201
+    "rank": 202
   },
   {
     "name": "Pranav Sharma",
     "badges": 0,
     "milestone": "No Milestone",
     "profileUrl": "https://www.skills.google/public_profiles/096a5070-abae-4292-9037-49f3fddb0879",
-    "badgeNames": "",
-    "rank": 202
-  },
-  {
-    "name": "Pranshu Singh",
-    "badges": 0,
-    "milestone": "No Milestone",
-    "profileUrl": "https://www.skills.google/public_profiles/7aa65eda-f056-4095-8b54-6b0bcb9891fe",
     "badgeNames": "",
     "rank": 203
   },
