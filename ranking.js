@@ -92,10 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Rank
             const rankTd = document.createElement('td');
             rankTd.className = 'rank-cell';
-            if (p.rank === 1) rankTd.innerHTML = '<span class="rank-medal">🥇</span>';
-            else if (p.rank === 2) rankTd.innerHTML = '<span class="rank-medal">🥈</span>';
-            else if (p.rank === 3) rankTd.innerHTML = '<span class="rank-medal">🥉</span>';
-            else rankTd.textContent = '#' + p.rank;
+            rankTd.textContent = '#' + p.rank;
             tr.appendChild(rankTd);
 
             // Name
